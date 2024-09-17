@@ -1,0 +1,4 @@
+<!ELEMENT Teacher (name,family,course)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT family (#PCDATA)>
+<!ELEMENT course (#PCDATA)>

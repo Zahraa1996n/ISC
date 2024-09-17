@@ -1,0 +1,7 @@
+
+<!DOCTYPE Teacher SYSTEM "Teacher.dtd">
+<Teacher>
+<name>amir</name>
+<family>hosseini</family>
+<course>java</course>
+</Teacher>
